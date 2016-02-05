@@ -97,9 +97,9 @@ work.display();
 var projects = {
   projects: [
     {
-      'title': 'just a friendly chat',
+      'title': 'Messaging App',
       'dates': '2015',
-      'description': 'web-based messaging app, https://luminous-torch-9975.firebaseapp.com/',
+      'description': 'Web based messaging app, https://luminous-torch-9975.firebaseapp.com/',
       'images': ['images/maxres.jpg']
     }
   ],
