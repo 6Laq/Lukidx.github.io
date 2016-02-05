@@ -22,7 +22,7 @@ var bio = {
     'twitter': ' @thisguy',
     'location': 'Elk Grove, CA'
   },
-  welcomeMessage: 'Test sentence',
+  welcomeMessage: 'Front End Web Developer',
   skills: ["JQuery", "Javascript", "HTML/CSS"],
   biopic: 'images/face.jpeg',
   display: function () {
