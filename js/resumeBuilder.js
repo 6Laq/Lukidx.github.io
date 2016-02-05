@@ -23,7 +23,7 @@ var bio = {
     'location': 'Elk Grove, CA'
   },
   welcomeMessage: 'Test sentence',
-  skills: [JQuery", "Javascript", "HTML/CSS"],
+  skills: ["JQuery", "Javascript", "HTML/CSS"],
   biopic: 'images/face.jpeg',
   display: function () {
     var header = $('#header');
